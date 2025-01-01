@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Bienvenido a mi perfil de GitHub
 
-![Imagen de presentación](lefasom/imagenes/refs/heads/main/presentacion%20de%20github.jpg)
+<img src="https://github.com/lefasom/imagenes/blob/main/presentacion.jpg?raw=true" alt="Presentación">
+
 
 ## Sobre mí
 
