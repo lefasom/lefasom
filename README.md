@@ -39,7 +39,10 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 
 
 ### 😄 Caja de Recursos
-[![Caja de Recursos](https://url_de_tu_miniatura1.png)](https://enlace_a_caja_de_recursos.com)
+<a href="https://enlace_a_caja_de_recursos.com">
+  <img src="https://url_de_tu_miniatura1.png" alt="Caja de Recursos" width="40" height="40">
+</a>
+
 
 ### 📂 Portfolio
 [![Portfolio](https://blog.openclassrooms.com/es/wp-content/uploads/sites/5/2017/12/blog_tools.jpg)](https://agenda-web-ochre.vercel.app)
