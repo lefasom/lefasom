@@ -14,6 +14,8 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://astro.build/assets/press/astro-icon-light.png" alt="Astro JS" width="40" height="40"/>
+
 </p>
 
 ### Otras tecnologías que he usado
