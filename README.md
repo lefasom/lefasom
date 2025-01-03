@@ -17,6 +17,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   <img src="https://astro.build/assets/press/astro-icon-light.png" alt="Astro JS" width="40" height="40"/>
 </p>
 
+
 ### Otras tecnologías que he usado
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
