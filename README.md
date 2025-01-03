@@ -42,5 +42,12 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 </p>
 
 Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabajando con ellas en diferentes proyectos.
+## Mis Proyectos
+
+### 😄 Caja de Recursos
+[![Caja de Recursos](https://url_de_tu_miniatura1.png)](https://enlace_a_caja_de_recursos.com)
+
+### 📂 Portfolio
+[![Portfolio](https://url_de_tu_miniatura2.png)](https://enlace_a_portfolio.com)
 
 ¡Gracias por visitar mi perfil!
