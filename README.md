@@ -39,9 +39,9 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabajando con ellas en diferentes proyectos.
 
 
-### 😄 Caja de Recursos
+### 😄 Mis Recursos
 <a href="[https://enlace_a_caja_de_recursos.com](https://agenda-web-ochre.vercel.app)">
-  <img src="https://blog.openclassrooms.com/es/wp-content/uploads/sites/5/2017/12/blog_tools.jpg" alt="Caja de Recursos" width="150" height="150">
+  Recursos
 </a>
 
 
