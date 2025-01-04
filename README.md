@@ -40,10 +40,7 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 
 
 ### 😄 Mis Recursos
-<a href="[https://enlace_a_caja_de_recursos.com](https://agenda-web-ochre.vercel.app)">
-https://agenda-web-ochre.vercel.app</a>
-
-
+[![Portfolio]()](https://agenda-web-ochre.vercel.app)
 ### 📂 Portfolio
 [![Portfolio](https://blog.openclassrooms.com/es/wp-content/uploads/sites/5/2017/12/blog_tools.jpg)](https://agenda-web-ochre.vercel.app)
 
