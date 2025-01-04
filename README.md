@@ -41,8 +41,7 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 
 ### 😄 Mis Recursos
 <a href="[https://enlace_a_caja_de_recursos.com](https://agenda-web-ochre.vercel.app)">
-  Recursos
-</a>
+https://agenda-web-ochre.vercel.app</a>
 
 
 ### 📂 Portfolio
