@@ -103,7 +103,7 @@ El proyecto también integra Socket.io, lo que permite a los usuarios ver las co
 <td width="50%">
 <h3 align="center">Viking Store</h3>
 <div align="center">                                       
-<a href="https://viking-store.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/tienda.png" style="width:400px; object-fit: contain;" alt="Viking Store"></a>
+<a href="https://viking-store.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" style="width:400px; object-fit: contain;" alt="Viking Store"></a>
 <p>
 <a href="https://github.com/lefasom/viking-store" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
