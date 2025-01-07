@@ -11,7 +11,6 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -42,13 +41,14 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 
 ### 😄 Mis Recursos
 [![Recursos]](https://agenda-web-ochre.vercel.app)
+
 ## Proyectos 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Blogs of photo</h3>
 <div align="center">
-<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" width="400" alt="netxjs"></a>
+<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" width="400" height="250" alt="Blogs of photo"></a>
 <p>
 <a href="https://github.com/lefasom/blogs-of-photo" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -63,16 +63,17 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
                <br>
 <h3 align="center">La Serafina</h3>
 <div align="center">                                       
-<a href="https://serafinamarket.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" width="400" alt="La serafina"></a>
+<a href="https://serafinamarket.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" width="400" height="250" alt="La Serafina"></a>
 <br>
 <p>
 <a href="https://github.com/lefasom/la-serafina-2.0" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>
-Este proyecto utiliza Next.js y Firebase para crear un sitio web dinámico y funcional para una verdulería, donde el propietario puede gestionar fácilmente el inventario del negocio a través de un sistema de autenticación sencillo. El sitio está construido con un estado centralizado utilizando Redux, lo que garantiza una gestión eficiente y fluida de los datos y las actualizaciones en tiempo real. Los usuarios pueden explorar productos, mientras que el dueño, mediante un inicio de sesión simple, tiene acceso a herramientas de gestión que le permiten agregar, editar o eliminar los mismos. Esta solución ofrece una experiencia de usuario amigable tanto para los clientes como para el administrador del sitio, optimizando la operación de la verdulería de manera moderna y eficiente.</p>
+<p>Este proyecto utiliza Next.js y Firebase para crear un sitio web dinámico y funcional para una verdulería, donde el propietario puede gestionar fácilmente el inventario del negocio a través de un sistema de autenticación sencillo. El sitio está construido con un estado centralizado utilizando Redux, lo que garantiza una gestión eficiente y fluida de los datos y las actualizaciones en tiempo real. Los usuarios pueden explorar productos, mientras que el dueño, mediante un inicio de sesión simple, tiene acceso a herramientas de gestión que le permiten agregar, editar o eliminar los mismos. Esta solución ofrece una experiencia de usuario amigable tanto para los clientes como para el administrador del sitio, optimizando la operación de la verdulería de manera moderna y eficiente.</p>
 </div>                                                             
+</td>                                                             
+</tr> 
 </table>                                                                                 
 </div>
 <br>
@@ -82,7 +83,7 @@ Este proyecto utiliza Next.js y Firebase para crear un sitio web dinámico y fun
 <td width="50%">
 <h3 align="center">Chatea</h3>
 <div align="center">
-<a href="front-chatea.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" width="400" alt="chatea"></a>
+<a href="front-chatea.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" width="400" height="250" alt="Chatea"></a>
 <p>
 <a href="https://github.com/lefasom/front-chatea" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -104,21 +105,22 @@ El proyecto también integra Socket.io, lo que permite a los usuarios ver las co
 <td width="50%">
 <h3 align="center">Viking Store</h3>
 <div align="center">
-<a href="https://viking-woad.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" width="400" alt="Viking Store"></a>
+<a href="https://viking-woad.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" width="400" height="250" alt="Viking Store"></a>
 <p>
 <a href="https://github.com/lefasom/viking" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Este proyecto es una plataforma de comercio en línea desarrollada utilizando Next.js junto con Redux para la gestión centralizada del estado, creando una experiencia de compra fluida y dinámica. La principal característica del sistema es un carrito de compras interactivo, donde los usuarios pueden agregar productos, revisar sus pedidos y, una vez listos, enviar sus órdenes directamente a Telegram y WhatsApp, facilitando la comunicación instantánea con los administradores de la tienda.
+<p>Viking Store es una plataforma en la cual puedes explorar los productos más recientes del mercado, de una manera organizada y fácil de entender. El backend es gestionado mediante un CMS, lo que permite al administrador gestionar de forma eficiente los productos y el contenido del sitio.
 
-La plataforma permite a los administradores gestionar el contenido de manera sencilla, ajustando la disponibilidad de los productos, organizando las prioridades en función de los artículos más vendidos y actualizando la información en tiempo real. Además, el sistema está diseñado para ofrecer una navegación intuitiva y ágil, brindando una experiencia de usuario cómoda tanto para los compradores como para los encargados del negocio.
+Además, ofrece una interfaz con filtros avanzados de búsqueda y categorización para los clientes, facilitando una experiencia rápida y precisa al buscar productos.
 
-Con el uso de Redux, se garantiza un manejo eficiente del estado de la aplicación, permitiendo que las actualizaciones del carrito y las preferencias de los usuarios se sincronicen de forma instantánea. Esta solución proporciona una herramienta poderosa para gestionar un comercio en línea, combinando la facilidad de uso con las integraciones de mensajería más populares.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
+Con esta plataforma se busca una interacción simple, clara y amigable, manteniendo a los usuarios siempre informados sobre los últimos lanzamientos de productos y las mejores ofertas.</p>
+</div>                                                             
+</td>                                                             
+</tr> 
+</table>
+                                                                               
 </div>
 <br>
 ¡Gracias por visitar mi perfil!
