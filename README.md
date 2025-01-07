@@ -53,7 +53,7 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>En este proyecto se implementa una interfaz simple y bien estructurada utilizando Auth0 en Next.js, permitiendo a los usuarios acceder de manera segura y disfrutar de funciones como historial de favoritos, contador de "me gustas" y categorización de archivos. La solución está diseñada para ser eficiente y amigable, mejorando la experiencia del usuario con una navegación intuitiva y organizada.</p>
 </div>
                                                                                       
 </td>
