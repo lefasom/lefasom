@@ -49,11 +49,8 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 <div align="center">
 <a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" width="400" alt="netxjs"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/lefasom/blogs-of-photo" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
