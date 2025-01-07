@@ -41,16 +41,13 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 
 ### 😄 Mis Recursos
 [![Recursos]](https://agenda-web-ochre.vercel.app)
-### 📂 Portfolio
-[![Portfolio](https://blog.openclassrooms.com/es/wp-content/uploads/sites/5/2017/12/blog_tools.jpg)](https://agenda-web-ochre.vercel.app)
-
-## Proyectos *bombitas*
+## Proyectos 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Blogs of photo</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="netxjs"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
