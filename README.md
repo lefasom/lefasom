@@ -47,7 +47,7 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 <td width="50%">
 <h3 align="center">Blogs of photo</h3>
 <div align="center">
-<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="netxjs"></a>
+<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" width="400" alt="netxjs"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
