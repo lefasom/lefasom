@@ -63,14 +63,15 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
                <br>
 <h3 align="center">La Serafina</h3>
 <div align="center">                                       
-<a href="https://serafinamarket.vercel.app" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="La serafina"></a>
+<a href="https://serafinamarket.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" width="400" alt="La serafina"></a>
 <br>
 <p>
 <a href="https://github.com/lefasom/la-serafina-2.0" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Proyecto de Next.js y firebase utilizando estado centralizado con Redux</p>
+</p>
+Este proyecto utiliza Next.js y Firebase para crear un sitio web dinámico y funcional para una verdulería, donde el propietario puede gestionar fácilmente el inventario del negocio a través de un sistema de autenticación sencillo. El sitio está construido con un estado centralizado utilizando Redux, lo que garantiza una gestión eficiente y fluida de los datos y las actualizaciones en tiempo real. Los usuarios pueden explorar productos, mientras que el dueño, mediante un inicio de sesión simple, tiene acceso a herramientas de gestión que le permiten agregar, editar o eliminar los mismos. Esta solución ofrece una experiencia de usuario amigable tanto para los clientes como para el administrador del sitio, optimizando la operación de la verdulería de manera moderna y eficiente.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
