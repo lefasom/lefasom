@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Bienvenido a mi perfil de GitHub
 
-<img src="https://github.com/lefasom/imagenes/blob/main/presentacion.jpg?raw=true" alt="Presentación">
+<img src="https://github.com/lefasom/imagenes/blob/main/presentacion.jpg?raw=true" alt="Presentación" style="width:400px; object-fit: contain;">
 
 
 ## Sobre mí
@@ -9,34 +9,32 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 ### Tecnologías principales
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://astro.build/assets/press/astro-icon-light.png" alt="Astro JS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:40px; object-fit: contain;"/>
+  <img src="https://astro.build/assets/press/astro-icon-light.png" alt="Astro JS" style="width:40px; object-fit: contain;"/>
 </p>
 
 
 ### Otras tecnologías que he usado
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" style="width:40px; object-fit: contain;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg" alt="NestJS" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width:40px; object-fit: contain;"/>
+  <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" alt="Flask" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" style="width:40px; object-fit: contain;"/>
 </p>
-
-Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabajando con ellas en diferentes proyectos.
 
 
 ### 😄 Mis Recursos
@@ -48,7 +46,7 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 <td width="50%">
 <h3 align="center">Blogs of photo</h3>
 <div align="center">
-<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" width="400" height="250" alt="Blogs of photo"></a>
+<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width:400px; object-fit: contain;" alt="Blogs of photo"></a>
 <p>
 <a href="https://github.com/lefasom/blogs-of-photo" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -63,7 +61,7 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
                <br>
 <h3 align="center">La Serafina</h3>
 <div align="center">                                       
-<a href="https://serafinamarket.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" width="400" height="250" alt="La Serafina"></a>
+<a href="https://serafinamarket.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" style="width:400px; object-fit: contain;" alt="La Serafina"></a>
 <br>
 <p>
 <a href="https://github.com/lefasom/la-serafina-2.0" target="_blank">
@@ -83,7 +81,7 @@ Aunque estas tecnologías no son mi enfoque principal, tengo experiencia trabaja
 <td width="50%">
 <h3 align="center">Chatea</h3>
 <div align="center">
-<a href="front-chatea.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" width="400" height="250" alt="Chatea"></a>
+<a href="front-chatea.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width:400px; object-fit: contain;" alt="Chatea"></a>
 <p>
 <a href="https://github.com/lefasom/front-chatea" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -104,11 +102,11 @@ El proyecto también integra Socket.io, lo que permite a los usuarios ver las co
 
 <td width="50%">
 <h3 align="center">Viking Store</h3>
-<div align="center">
-<a href="https://viking-woad.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" width="400" height="250" alt="Viking Store"></a>
+<div align="center">                                       
+<a href="https://viking-store.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/tienda.png" style="width:400px; object-fit: contain;" alt="Viking Store"></a>
 <p>
-<a href="https://github.com/lefasom/viking" target="_blank">
-<img src="https://img.shields.io/badge/FRONT-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/lefasom/viking-store" target="_blank">
+<img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Viking Store es una plataforma en la cual puedes explorar los productos más recientes del mercado, de una manera organizada y fácil de entender. El backend es gestionado mediante un CMS, lo que permite al administrador gestionar de forma eficiente los productos y el contenido del sitio.
@@ -120,7 +118,3 @@ Con esta plataforma se busca una interacción simple, clara y amigable, mantenie
 </td>                                                             
 </tr> 
 </table>
-                                                                               
-</div>
-<br>
-¡Gracias por visitar mi perfil!
