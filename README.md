@@ -19,15 +19,16 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 ## Proyectos
 
+  ### Blogs of photo
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
- 
-<div>
-  ### Blogs of photo
-   <img src="https://www.fcbarcelona.com/fcbarcelona/photo/2022/08/02/ae5252d1-b79b-4950-9e34-6e67fac09bb0/LeoMessi20092010_pic_fcb-arsenal62.jpg" style="width: 200px; object-fit: contain; margin-right: 20px;" alt="Blogs of photo">
-</div>
   <div>
-    <p>En este proyecto se implementa una interfaz simple y bien estructurada utilizando Auth0 en Next.js, permitiendo a los usuarios acceder de manera segura y disfrutar de funciones como historial de favoritos, contador de "me gustas" y categorización de archivos. La solución está diseñada para ser eficiente y amigable, mejorando la experiencia del usuario con una navegación intuitiva y organizada.</p>
+    <img src="https://www.fcbarcelona.com/fcbarcelona/photo/2022/08/02/ae5252d1-b79b-4950-9e34-6e67fac09bb0/LeoMessi20092010_pic_fcb-arsenal62.jpg" style="width: 200px; object-fit: contain; margin-right: 20px;" alt="Blogs of photo">
+  </div>
+  <div>
+    <p>
+      En este proyecto se implementa una interfaz simple y bien estructurada utilizando Auth0 en Next.js, permitiendo a los usuarios acceder de manera segura y disfrutar de funciones           como historial de favoritos, contador de "me gustas" y categorización de archivos. La solución está diseñada para ser eficiente y amigable, mejorando la experiencia del usuario con        una navegación intuitiva y organizada.
+    </p>
     <p>
       <a href="https://github.com/lefasom/blogs-of-photo" target="_blank"><img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
     </p>
