@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Bienvenido a mi perfil de GitHub
 
-<img src="https://github.com/lefasom/imagenes/blob/main/presentacion.jpg?raw=true" alt="Presentación" style="width:100%; object-fit: contain;">
+<img src="https://github.com/lefasom/imagenes/blob/main/presentacion.jpg?raw=true" alt="Presentación" style="width:50%; object-fit: contain; margin:auto">
 
 ## Sobre mí
 
