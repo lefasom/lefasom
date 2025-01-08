@@ -23,7 +23,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 <table>
   <tr>
-    <td><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width: 200px; object-fit: contain;" alt="Blogs of photo"></td>
+    <td><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width: 100%; object-fit: contain;" alt="Blogs of photo"></td>
     <td>
       <p>En este proyecto se implementa una interfaz simple y bien estructurada utilizando Auth0 en Next.js, permitiendo a los usuarios acceder de manera segura y disfrutar de funciones como historial de favoritos, contador de "me gustas" y categorización de archivos. La solución está diseñada para ser eficiente y amigable, mejorando la experiencia del usuario con una navegación intuitiva y organizada.</p>
       <p><a href="https://github.com/lefasom/blogs-of-photo" target="_blank"><img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
@@ -36,7 +36,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 ### La Serafina
 <table>
   <tr>
-    <td><img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" style="width: 200px; object-fit: cover;" alt="La Serafina"></td>
+    <td><img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" style="width: 100%; object-fit: contain;" alt="La Serafina"></td>
     <td>
       <p>Este proyecto utiliza Next.js y Firebase para crear un sitio web dinámico y funcional para una verdulería, donde el propietario puede gestionar fácilmente el inventario del negocio a través de un sistema de autenticación sencillo. El sitio está construido con un estado centralizado utilizando Redux, lo que garantiza una gestión eficiente y fluida de los datos y las actualizaciones en tiempo real.</p>
       <p><a href="https://github.com/lefasom/la-serafina-2.0" target="_blank"><img src="https://img.shields.io/badge/FRONT-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
@@ -49,7 +49,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 ### Chatea
 <table>
   <tr>
-    <td><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width: 200px; object-fit: cover;" alt="Chatea"></td>
+    <td><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width: 100%; object-fit: contain;" alt="Chatea"></td>
     <td>
       <p>"Chatea" es un proyecto de red social desarrollado utilizando diversas tecnologías modernas como Vue, Vuex, Node.js, Firebase, y MongoDB. Esta plataforma permite a los usuarios interactuar mediante funciones de mensajería y grupos. El diseño es limpio e intuitivo, con un sistema de autenticación que permite a los usuarios gestionar sus perfiles.</p>
       <p><a href="https://github.com/lefasom/front-chatea" target="_blank"><img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black"></a> <a href="https://github.com/lefasom/back-chatea" target="_blank"><img src="https://img.shields.io/badge/-BACK-green?style=for-the-badge&color=fbfc40"></a></p>
@@ -62,7 +62,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 ### Viking Store
 <table>
   <tr>
-    <td><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" style="width: 200px; object-fit: cover;" alt="Viking Store"></td>
+    <td><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" style="width: 100%; object-fit: contain;" alt="Viking Store"></td>
     <td>
       <p>Viking Store es una plataforma en la cual puedes explorar los productos más recientes del mercado, de una manera organizada y fácil de entender. El backend es gestionado mediante un CMS, lo que permite al administrador gestionar de forma eficiente los productos y el contenido del sitio.</p>
       <p><a href="https://github.com/lefasom/viking-store" target="_blank"><img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
