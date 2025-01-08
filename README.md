@@ -17,24 +17,9 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   <img src="https://astro.build/assets/press/astro-icon-light.png" alt="Astro JS" style="width:40px; object-fit: contain;"/>
 </p>
 
-### Otras tecnologías que he usado
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" style="width:40px; object-fit: contain;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg" alt="NestJS" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width:40px; object-fit: contain;"/>
-  <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" alt="Flask" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:40px; object-fit: contain;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" style="width:40px; object-fit: contain;"/>
-</p>
-
 ## Proyectos
+
+---
 
 ### Blogs of photo
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -47,6 +32,8 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   </div>
 </div>
 
+---
+
 ### La Serafina
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px;" alt="La Serafina">
@@ -57,6 +44,8 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
     </p>
   </div>
 </div>
+
+---
 
 ### Chatea
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -70,6 +59,8 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   </div>
 </div>
 
+---
+
 ### Viking Store
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="https://github.com/lefasom/imagenes/blob/main/viking.png" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px;" alt="Viking Store">
@@ -80,3 +71,5 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
     </p>
   </div>
 </div>
+
+---
