@@ -46,7 +46,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 <td width="50%">
 <h3 align="center">Blogs of photo</h3>
 <div align="center">
-<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width:400px; height:200px; object-fit: cover;" alt="Blogs of photo"></a>
+<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width:400px; object-fit: cover;" alt="Blogs of photo"></a>
 <p>
 <a href="https://github.com/lefasom/blogs-of-photo" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -81,7 +81,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 <td width="50%">
 <h3 align="center">Chatea</h3>
 <div align="center">
-<a href="front-chatea.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width:400px; height:200px; object-fit: cover;" alt="Chatea"></a>
+<a href="front-chatea.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width:400px; object-fit: cover;" alt="Chatea"></a>
 <p>
 <a href="https://github.com/lefasom/front-chatea" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -103,7 +103,7 @@ El proyecto también integra Socket.io, lo que permite a los usuarios ver las co
 <td width="50%">
 <h3 align="center">Viking Store</h3>
 <div align="center">                                       
-<a href="https://viking-store.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" style="width:400px; height:200px; object-fit: cover;" alt="Viking Store"></a>
+<a href="https://viking-store.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/viking.png" style="width:400px; object-fit: cover;" alt="Viking Store"></a>
 <p>
 <a href="https://github.com/lefasom/viking-store" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
