@@ -19,7 +19,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 ## Proyectos
 
----
+--
 
 ### Blogs of photo
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
