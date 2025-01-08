@@ -21,7 +21,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 ### Blogs of photo
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width: 200px; object-fit: contain; margin-right: 20px;" alt="Blogs of photo">
+  <img src="https://www.fcbarcelona.com/fcbarcelona/photo/2022/08/02/ae5252d1-b79b-4950-9e34-6e67fac09bb0/LeoMessi20092010_pic_fcb-arsenal62.jpg" style="width: 200px; object-fit: contain; margin-right: 20px;" alt="Blogs of photo">
   <div>
     <p>En este proyecto se implementa una interfaz simple y bien estructurada utilizando Auth0 en Next.js, permitiendo a los usuarios acceder de manera segura y disfrutar de funciones como historial de favoritos, contador de "me gustas" y categorización de archivos. La solución está diseñada para ser eficiente y amigable, mejorando la experiencia del usuario con una navegación intuitiva y organizada.</p>
     <p>
@@ -34,7 +34,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 ### La Serafina
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/lefasom/imagenes/blob/main/serafina.png" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px;" alt="La Serafina">
+  <img src="https://www.fcbarcelona.com/fcbarcelona/photo/2022/08/02/ae5252d1-b79b-4950-9e34-6e67fac09bb0/LeoMessi20092010_pic_fcb-arsenal62.jpg" style="width: 200px; object-fit: cover; margin-right: 20px;" alt="La Serafina">
   <div>
     <p> Este proyecto utiliza Next.js y Firebase para crear un sitio web dinámico y funcional para una verdulería, donde el propietario puede gestionar fácilmente el inventario del negocio a través de un sistema de autenticación sencillo. El sitio está construido con un estado centralizado utilizando Redux, lo que garantiza una gestión eficiente y fluida de los datos y las actualizaciones en tiempo real.</p>
     <p>
@@ -47,7 +47,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 ### Chatea
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px;" alt="Chatea">
+  <img src="https://www.fcbarcelona.com/fcbarcelona/photo/2022/08/02/ae5252d1-b79b-4950-9e34-6e67fac09bb0/LeoMessi20092010_pic_fcb-arsenal62.jpg" style="width: 200px; object-fit: cover; margin-right: 20px;" alt="Chatea">
   <div>
     <p> "Chatea" es un proyecto de red social desarrollado utilizando diversas tecnologías modernas como Vue, Vuex, Node.js, Firebase, y MongoDB. Esta plataforma permite a los usuarios interactuar mediante funciones de mensajería y grupos. El diseño es limpio e intuitivo, con un sistema de autenticación que permite a los usuarios gestionar sus perfiles.</p>
     <p>
@@ -61,7 +61,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 
 ### Viking Store
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/lefasom/imagenes/blob/main/viking.png" style="width: 150px; height: 150px; object-fit: cover; margin-right: 20px;" alt="Viking Store">
+  <img src="https://www.fcbarcelona.com/fcbarcelona/photo/2022/08/02/ae5252d1-b79b-4950-9e34-6e67fac09bb0/LeoMessi20092010_pic_fcb-arsenal62.jpg" style="width: 200px; object-fit: cover; margin-right: 20px;" alt="Viking Store">
   <div>
     <p> Viking Store es una plataforma en la cual puedes explorar los productos más recientes del mercado, de una manera organizada y fácil de entender. El backend es gestionado mediante un CMS, lo que permite al administrador gestionar de forma eficiente los productos y el contenido del sitio.</p>
     <p>
