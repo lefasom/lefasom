@@ -46,7 +46,7 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 <td width="50%">
 <h3 align="center">Blogs of photo</h3>
 <div align="center">
-<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width:400px; object-fit: cover;" alt="Blogs of photo"></a>
+<a href="https://blogs-of-photo-git-main-lefasom.vercel.app" target="_blank"><img src="https://github.com/lefasom/imagenes/blob/main/p1.png" style="width:400px height:200px; object-fit: cover;" alt="Blogs of photo"></a>
 <p>
 <a href="https://github.com/lefasom/blogs-of-photo" target="_blank">
 <img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black">
