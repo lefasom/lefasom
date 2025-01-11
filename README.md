@@ -67,7 +67,10 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
 ### Chatea
 <table>
   <tr>
-    <td><img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width: 100%; object-fit: contain;" alt="Chatea"></td>
+    <td>
+      <a href="https://front-chatea.vercel.app">
+        <img src="https://github.com/lefasom/imagenes/blob/main/redsocial.png" style="width: 100%; object-fit: contain;" alt="Chatea"></td>
+      </a>
     <td>
       <p>"Chatea" es un proyecto de red social desarrollado utilizando diversas tecnologías modernas como Vue, Vuex, Node.js, Firebase, y MongoDB. Esta plataforma permite a los usuarios interactuar mediante funciones de mensajería y grupos. El diseño es limpio e intuitivo, con un sistema de autenticación que permite a los usuarios gestionar sus perfiles.</p>
       <p><a href="https://github.com/lefasom/front-chatea" target="_blank"><img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black"></a> <a href="https://github.com/lefasom/back-chatea" target="_blank"><img src="https://img.shields.io/badge/-BACK-green?style=for-the-badge&color=fbfc40"></a></p>
