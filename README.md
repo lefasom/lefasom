@@ -34,7 +34,23 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:40px; object-fit: contain;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" style="width:40px; object-fit: contain;"/>
 </p>
+## Herramientas
+### My tools
+<table>
+  <tr>
+    <td>
+      <a href="https://blogs-of-photo-git-main-lefasom.vercel.app">
+      <img src="https://github.com/lefasom/imagenes/blob/main/mytools.png" style="width: 100%; object-fit: contain;" alt="Blogs of photo">
+      </a>
+    </td>
+    <td>
+      <p>En este proyecto se implementa una interfaz simple y bien estructurada utilizando Auth0 en Next.js, permitiendo a los usuarios acceder de manera segura y disfrutar de funciones como historial de favoritos, contador de "me gustas" y categorización de archivos. La solución está diseñada para ser eficiente y amigable, mejorando la experiencia del usuario con una navegación intuitiva y organizada.</p>
+      <p><a href="https://github.com/lefasom/blogs-of-photo" target="_blank"><img src="https://img.shields.io/badge/FRONT-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+    </td>
+  </tr>
+</table>
 
+---
 ## Proyectos
 
   ### Blogs of photo
