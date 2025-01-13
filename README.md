@@ -53,7 +53,6 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   </tr>
 </table>
 
----
 ## Proyectos
 
   ### Blogs of photo
