@@ -33,6 +33,8 @@ Soy estudiante de ingeniería, apasionado por el desarrollo de software y las te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" style="width:40px; object-fit: contain;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:40px; object-fit: contain;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" style="width:40px; object-fit: contain;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="width:40px; object-fit: contain;"/>
+
 </p>
 
 ## Herramientas
